@@ -1,5 +1,5 @@
 
-Learn Log
+Study Log
 
 
 
