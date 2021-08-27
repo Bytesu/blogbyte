@@ -1,8 +1,8 @@
 
 ![](./assets/Geneva_city.png)
-
-Geneva is the only place I’ve been in Switzerland and it didn’t leave me very impressed.
-My friends and I went there for a weekend getaway from Paris, although we hardly spent any time in the city itself as we crossed back into France to visit nearby Chamonix to snowboard instead.
+<code >
+Geneva is the only place I’ve been in Switzerland[ˈswitsə(r)ˌlənd] and it didn’t leave me very impressed.
+My friends and I went there for a weekend getaway from Paris, although we hardly spent any time in the city itself as we crossed back into France to visit nearby Chamonix[ˈtʃæmənɪks][夏蒙尼（地名，法国小镇，是阿尔卑斯山脉的典型山城] to snowboard instead.
 But from the brief time we did spend in Geneva, I didn’t really like it. It’s Switzerland’s financial hub, and so the city felt very corporate and bland. It’s also not as pretty or scenic as I was expecting (aside from a few cute streets like the one pictured above.)
 And it’s by far THE most expensive place I’ve ever been on my travels. I’m pretty sure I paid the equivalent of $15 for a basic veggie sandwich at a food hall there.
 However, I definitely want to return to Switzerland one day and visit many other parts of the country. I would just skip Geneva the next time I’m there!
@@ -23,3 +23,4 @@ London is a city that I think I COULD really love, but I just haven’t spent en
 I’ve been to London a few times now, most recently at the start of an England road trip, and I preferred the English countryside so much compared to being in the city.
 London seems like the type of big city I should like (since I love New York and Paris so much) but it has just never clicked for me. Some of it might be due to it being such a large city that it can feel underwhelming, and I’ve only ever spent a couple days there at a time.
 That being said, I’ll definitely return to London in the future, and hopefully click with it more!
+<code />
