@@ -70,6 +70,11 @@ They are hard to find when your eyes are closed,but they are everywhere you look
 
 3. light up the word
 
+4. snacks 小吃
+
+5. snake 蛇
+
+6. sneakers[ˈsnikərz][运动鞋]
 ````
 
 freckle [ˈfrekl]   n. 雀斑;小斑点 v. （使）生雀斑
