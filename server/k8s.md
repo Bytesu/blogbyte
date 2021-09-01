@@ -109,3 +109,7 @@ kubectl proxy
 示例：Ingress通过互联网访问应用
 ====
 https://www.cnblogs.com/sanduzxcvbnm/p/13038059.html
+
+setting up self signed https
+===
+https://itnext.io/setting-up-self-signed-https-access-to-local-dev-k8s-cluster-in-minikube-539bc62ad62f
