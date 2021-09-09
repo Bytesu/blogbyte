@@ -113,3 +113,7 @@ https://www.cnblogs.com/sanduzxcvbnm/p/13038059.html
 setting up self signed https
 ===
 https://itnext.io/setting-up-self-signed-https-access-to-local-dev-k8s-cluster-in-minikube-539bc62ad62f
+
+
+
+(K8s 数据存储之PersistentVolume)[https://www.jianshu.com/p/b3665b72126e]
