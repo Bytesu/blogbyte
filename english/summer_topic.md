@@ -25,12 +25,12 @@ having fun: 玩的开心
 summer cottage: 避暑山庄
 
 
-no appetite in summer: 夏天容易没胃口
+no appetite [ˈæpɪtaɪt] [食欲;胃口;强烈欲望] in summer: 夏天容易没胃口
 cold noodles: 冷面
 grilled cold noodles: 烤冷面
 cold wontons: 冷馄饨
 ice cream: 冰淇淋
-popsicle: 冰棍
+popsicle[ˈpɑːpsɪkl] [冰棒;雪糕] 冰棍
 slushie: 雪泥
 slush: 融化的雪
 shaved ice: 刨冰

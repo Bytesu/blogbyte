@@ -5,7 +5,7 @@ Start with the basics
 Learning the basics
 Learning the ABCs
 Get back to (the) basics：回到原本
-Basic instinct：本能
+Basic instinct [ˈɪnstɪŋkt] [n 本能;天性;直觉]：本能
 Basic English：基础英语
 The basic meaning：基本含义
 Basic decency：基本的礼貌
