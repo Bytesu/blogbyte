@@ -6,10 +6,10 @@
 ### Shallow Rendering API
 Method                                   |Desc
 ----------------------------------------:|:--
-.at(index) => ShallowWrapper             | Returns a wrapper around the node at a given index of the current wrapper.
-.childAt(index) => ShallowWrapper        | Returns a new wrapper with child at the specified index.
-.children([selector]) => ShallowWrapper  | Returns a new wrapper with all of the children of the node(s) in the current wrapper. Optionally, a selector can be provided and it will filter the children by this selector
-.closest(selector) => ShallowWrapper     | Returns a wrapper of the first element that matches the selector by traversing up through the wrapped node's ancestors in the tree, starting with itself. It must be a single-node wrapper.
+**.at(index) => ShallowWrapper**             | Returns a wrapper around the node at a given index of the current wrapper.
+**.childAt(index) => ShallowWrapper**        | Returns a new wrapper with child at the specified index.
+**.children([selector]) => ShallowWrapper**  | Returns a new wrapper with all of the children of the node(s) in the current wrapper. Optionally, a selector can be provided and it will filter the children by this selector
+.closest(selector) => ShallowWrapper     | Returns a wrapper of the first element that matches the selector by traversing[横过;横越;穿过;横渡] up through the wrapped node's ancestors[祖宗;祖先;(动物的)原种;(机器的)原型] in the tree, starting with itself. It must be a single-node wrapper.
 .contains(nodeOrNodes) => Boolean        | Returns whether or not all given react elements match elements in the render tree. It will determine if an element in the wrapper matches the expected element by checking if the expected element has the same props as the wrapper's element and share the same values.
 .containsAllMatchingElements(patternNodes) => Boolean | Returns whether or not all of the given react elements in patternNodes match an element in the wrapper's render tree. Every single element of patternNodes must be matched one or more times. Matching follows the rules for containsMatchingElement.
 .containsMatchingElement(patternNode) => Boolean  | Returns whether or not at least one of the given react elements in patternNodes matches an element in the wrapper's render tree. One or more elements of patternNodes must be matched one or more times. Matching follows the rules for containsMatchingElement.
@@ -71,8 +71,19 @@ Method                                   |Desc
 
 
 ### Full Rendering API
+
+```
+Full DOM rendering is ideal for use cases where you have components that may interact with DOM APIs or need to test components that are wrapped in higher order components.
+
+Full DOM rendering requires that a full DOM API be available at the global scope. This means that it must be run in an environment that at least “looks like” a browser environment. If you do not want to run your tests inside of a browser, the recommended approach to using mount is to depend on a library called jsdom which is essentially a headless browser implemented completely in JS.
+```
+
+method | desc
+------:|:--- 
+
 ### Static Rendering API
 ### enzyme Selectors
+
 
 
 ref
