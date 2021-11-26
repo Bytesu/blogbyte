@@ -14,7 +14,9 @@ https://shopify.dev/changelog
 ````
 Explore and learn Shopify's Admin API using GraphiQL Explorer. To build queries and mutations with shop data, install Shopify’s GraphiQL app.
 
-|-@shopify/app-bridge-react
+# Apps
+|- Getting started
+|-Developer tools
     |-@shopify/app-bridge 
         |-Actions : [An action provides a way for applications and hosts to trigger events with a payload](https://shopify.dev/apps/tools/app-bridge/actions)
             |- Action sets
@@ -51,6 +53,39 @@ Explore and learn Shopify's Admin API using GraphiQL Explorer. To build queries 
         |- Polaris `Shopify’s React component library and design system.`
         |- Debugging `Under the hood, Shopify App Bridge uses Redux to manage actions and app state. All actions dispatched by your app are recorded by Redux, and you can use Redux DevTools to review, replay, and dispatch actions to help you debug.`
         |- Migrate
+
+    |- Development stores
+    |- API libraries `Shopify provides several official libraries for interacting with the Admin API. Members of the Shopify developer community have created similar libraries covering other languages and technology stacks.`
+    |- Shopify Admin API GraphiQL explorer
+
+|- Best practices
+|- Check out
+|- Online store
+|- Subscriptions
+|- Flow
+|- Payments
+|- Fulfillment
+|- Shopify POS
+|- Channels
+|- Admin app extensions
+|- Authentication
+|- Webhooks
+|- Metafiels
+|- App billing
+|- Shopify App Store
+
+
+# Themes
+# Custom storefronts
+# APIs and references
+|- Graphql Admin API
+|- REST Admin API
+|- Liquid
+|- Ajax API
+|- Storefront API
+|- View all
+
+
 
 
 
